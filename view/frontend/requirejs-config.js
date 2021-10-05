@@ -5,6 +5,9 @@ var config = {
         }
     },
     "paths": {
-        "vue": "https://cdn.jsdelivr.net/npm/vue@2/dist/vue"
+        "vue": [
+            "https://cdn.jsdelivr.net/npm/vue@2/dist/vue",
+            "Biglidio_JsFun/js/vue"
+        ]
     }
 }
