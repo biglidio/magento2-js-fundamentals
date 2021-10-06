@@ -1,7 +1,8 @@
 var config = {
     "map": {
         "*": {
-            "fadeInElement": "Biglidio_JsFun/js/fade-in-element"
+            "fadeInElement": "Biglidio_JsFun/js/fade-in-element",
+            "Magento_Review/js/submit-review": "Biglidio_JsFun/js/submit-review"
         }
     },
     "paths": {
