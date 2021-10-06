@@ -16,5 +16,12 @@ var config = {
             "jquery"
         ]
     },
-    "deps": ['Biglidio_JsFun/js/every-page']
+    "deps": ['Biglidio_JsFun/js/every-page'],
+    "config": {
+        "mixins": {
+            "Magento_Ui/js/view/messages": {
+                "Biglidio_JsFun/js/messages-mixin": true
+            }
+        }
+    }
 }
